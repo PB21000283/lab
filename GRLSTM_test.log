@@ -1,0 +1,7 @@
+04-15 14:19 root         INFO     Initializing model: latent_dim=128
+04-15 14:19 root         INFO     Loading value nn from saved_models/epoch_71.pt
+04-15 14:32 root         INFO     0.0089
+04-15 14:32 root         INFO     0.0290
+04-15 14:32 root         INFO     0.0461
+04-15 14:32 root         INFO     0.0701
+04-15 14:32 root         INFO     0.1147
